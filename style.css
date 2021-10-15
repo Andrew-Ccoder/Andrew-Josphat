@@ -33,9 +33,12 @@
     }
 #tribute-info
     {
-
+        padding-left: 100px;   
+        font-size: large;
     } 
 #tribute-link
 {
+color: #e20d0d;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
